@@ -1,3 +1,9 @@
+#########################
+# Learn Python Coding in 2022
+# By HyungKu Im
+# blog.naver.com/damansa1
+#########################
+
 # 터미널을 클리어
 import os
 os.system('clear')
